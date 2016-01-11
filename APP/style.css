@@ -1,0 +1,12 @@
+.napis{
+  font-size: 50px;
+  color: yellow;
+  font-weight: bolder;
+  margin: 50px;
+}
+
+body{
+  background-color: green;
+  padding: 0px;
+  margin: 0px;
+}
