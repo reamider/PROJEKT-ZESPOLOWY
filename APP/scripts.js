@@ -17,7 +17,7 @@ $(document).ready(function(){
   //dodanie tekstu
 // div.text("Kliknij na wybraną partie mieśni aby wybrać ćwiczenia");
 //  dodanie klasy npis
-div2.animate({"left": "30%"}, "slow");
+div2.animate({"left": "10%"}, "slow");
   div.addClass("napis");
   div.css("display","none");
 // zmiana przezroczystości od 0 do 1
